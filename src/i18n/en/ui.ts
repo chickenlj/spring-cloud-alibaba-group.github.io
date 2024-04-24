@@ -239,7 +239,7 @@ export default {
 	'blog.card.btn.read': 'Read Now',
 	'blog.card.read.artile': 'Read Article',
 	'blog.card.view.all':'View All',
-	'blog.card.author.alibaba.Cloud.engineer':'Alibaba Cloud Senior Engineer',
+	'blog.card.author.alibaba.Cloud.engineer':'SCA Community Expert',
 	'blog.activity.detail.event':'Event Details',
 	'blog.activity.preview.event':'Event Trailer',
 	'blog.activity.all.event':'All Activities',

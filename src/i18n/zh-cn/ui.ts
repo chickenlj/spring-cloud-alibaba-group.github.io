@@ -245,7 +245,7 @@ export default {
 	'blog.card.btn.read': '立即阅读',
 	'blog.card.read.artile': '阅读文章',
 	'blog.card.view.all':'查看所有',
-	'blog.card.author.alibaba.Cloud.engineer':'阿里云高级工程师',
+	'blog.card.author.alibaba.Cloud.engineer':'SCA社区专家',
 	'blog.activity.detail.event':'活动详情',
 	'blog.activity.preview.event':'活动预告',
 	'blog.activity.all.event':'全部活动',
